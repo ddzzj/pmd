@@ -274,7 +274,7 @@ Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code
         <pmd.plugin.version>3.11.0</pmd.plugin.version>
         <ant.version>1.10.1</ant.version>
         <javadoc.plugin.version>3.0.1</javadoc.plugin.version>
-        <antlr.version>4.7</antlr.version>
+        <antlr.version>4.13.1</antlr.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
